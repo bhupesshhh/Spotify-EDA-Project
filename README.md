@@ -2,23 +2,23 @@
 
 For this exploratpry data science project, I downloaded my own spotify streaming history and tried to get different inferences and useful information I can get about my usage. I used python programming along with python libraries like numpy, pandas, matplotlib and seaborn. My codes are written in jupyter notebook and I explained all the steps with specific details. 
 
-### Data Collected From - 
+## Data Collected From - 
 
 Spotify
 
-### Steps Performed -
+## Steps Performed -
 
 1. Importing the data
 2. Merging the data
 3. Cleaning and Formatting
 
-### Data Exploration
+## Data Exploration
 1. Unique/ Non-Unique Artist
 2. Top 10 Artists
 3. Top 10 Songs
 4. Day/Weekly Usage
 
-### Questions Explored -
+## Questions Explored -
 
 1. How many hours did I spent on Spotify Streaming since the day I signed up for it?
 2. What is the average numbers of songs I played daily ?
@@ -27,11 +27,11 @@ Spotify
 5. How my usgae varies over a week?
 6. Most Usage ( Active usage in a day over a week) ?
 
-### Inferences and Conclusions
+## Inferences and Conclusions
 
 I have spent almost 369 hours streaming on spotify till now.
 
-### References
+## References
 
 Dataset :
 - Spotify Help : https://support.spotify.com/us/article/data-rights-and-privacy-settings/
